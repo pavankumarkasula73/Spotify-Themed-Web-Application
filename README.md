@@ -114,6 +114,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or feedback, feel free to contact:
 - **Name**: K. Pavan Kumar
-- 📧 **Email**: your-email@example.com
-- 🖥️ **GitHub**: [your-username](https://github.com/your-username)
+- 📧 **Email**: pavankumarkasula73@gmail.com
+- 🖥️ **GitHub**: pavankumarkasula73
 
